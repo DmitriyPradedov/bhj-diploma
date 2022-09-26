@@ -4,13 +4,15 @@
       "name": "demo",
       "email": "demo@demo",
       "password": "demo",
-      "id": "1"
+      "id": "1",
+      "isAuthorized": true
     },
     {
       "name": "Дмитрий",
       "email": "pradedov72@mail.ru",
       "password": "1306",
-      "id": "2q6h25mwl8ia8h9e"
+      "id": "2q6h25w4l8iawy92",
+      "isAuthorized": true
     }
   ],
   "accounts": [
